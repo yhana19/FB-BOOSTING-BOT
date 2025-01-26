@@ -1,12 +1,12 @@
 {
    "CONFIG": {
       "BOT_INFO": {
-         "PREFIX": ".",
+         "PREFIX": "/",
          "ADMIN_ID": [
-         "100089164803882"
+         "100025637756462"
          ],
-         "EMAIL": "EMAIL/PHONE NUMBER/ID",
-         "PASSWORD": "PASSWORD"
+         "EMAIL": "09632208165",
+         "PASSWORD": "lorex1234"
       },
       "PAGE_ACCOUNTS": {
          "ACCOUNTS": [
